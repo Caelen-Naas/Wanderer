@@ -7,7 +7,7 @@ import sys
 import l76x
 import MicropyGPS
 
-ssid = "DESKTOP-454SN2B 7428"
+ssid = "*******"
 password = "******"
 
 def connect():
